@@ -8,7 +8,15 @@ def key_for_min_value(name_hash)
     if number < smallest_value
       smallest_value = number
     end
-    smallest_value
   }
+    smallest_value
       
 end
+#   winner = ""
+#   passengers.each do |suite, name|
+#     if suite == :suite_a && name.start_with?("A")
+#       winner = name
+#       end
+#     end
+#     winner
+# end
