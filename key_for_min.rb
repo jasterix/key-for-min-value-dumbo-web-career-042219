@@ -12,7 +12,7 @@ def key_for_min_value(name_hash)
     end
     
   }
-    return smallest_value
+    #return smallest_value
       
 end
 #   winner = ""
